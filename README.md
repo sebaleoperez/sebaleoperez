@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- Read my blog sebaleoperez/sebaleoperez.github.io
-- Try and give me feedback on sebaleoperez/aventura-ia
-- Ask me about... whatever !
+- 📚Read my blog https://github.com/sebaleoperez/sebaleoperez.github.io
+- 👨🏽‍💻Try and give me feedback on https://github.com/sebaleoperez/aventura-ia
+- 💬 Ask me about .NET, Web3 or whatever !
 
 <!--
 **sebaleoperez/sebaleoperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
